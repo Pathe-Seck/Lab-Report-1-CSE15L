@@ -21,12 +21,12 @@
  
 <img width="1440" alt="step2" src="https://user-images.githubusercontent.com/102937267/162676748-0e9c32e0-fdbc-4661-9c27-bb70d946ff8c.png">
  
- ## Step 4: Moving Files With scp
+## Step 4: Moving Files With scp
    scp is a commmand that is used on your computer instead of through a remote computer. scp allows you to  be able to copy the file from your computer to another computer. You'll want to format the command to look like this: scp <file_name>.java cs15lsp22zz@ieng6.ucsd.edu:~/
    
 <img width="1440" alt="step5" src="https://user-images.githubusercontent.com/102937267/162676810-2c8a0baa-f929-44cb-a54d-10a5a2c2a1ac.png">
    
- ## Step 5: Setting An SSH Key 
+## Step 5: Setting An SSH Key 
    ssh keys are a very easy way of avoiding you having to enter your password every single time you want to login. ssh keys allow you to be able avoid logging in and instead creates two files one being the public key and the other being the private key. In order to access this you need to type ssh-keygen.
     
 <img width="1440" alt="laststep" src="https://user-images.githubusercontent.com/102937267/162676865-97054331-f5d0-435f-86fa-7b04f36f1896.png">
