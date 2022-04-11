@@ -4,7 +4,7 @@
 1. ## Installing VScode
   The first step in getting remote access is to install VScode. Once VS code is      installed you are going to go ahead and just open the application and be ready to use the terminal to login to you course-specific account. The screenshot below is the screen that you should be seeing if VScode is installed correctly. 
 
-![Image](http://emptyvs.png)
+<img width="1440" alt="emptyvs" src="https://user-images.githubusercontent.com/102937267/162676460-5fa3bf90-4d20-4f18-9593-ae8e92039471.png">
 
 2. ## Gaining Remote Access
   Now that you have VScode opened it's time to get access to your account! What you want to do is hit Ctrl and ' on your computer or click on terminal and new terminal option. Once that happens you are going to be using the course specific account that should look something like $ ssh cs15lsp22zz@ieng6.ucsd.edu. Then you will be just entering your password and you should be able to login just fine.
